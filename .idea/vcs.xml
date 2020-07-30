@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reactappversion2/yessir" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reactappversion2/yessir/yessir" vcs="Git" />
   </component>
 </project>
